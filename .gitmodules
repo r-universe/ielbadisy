@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "missCforest"]
 	path = missCforest
-	url = https://github.com/cran/missCforest
+	url = https://github.com/ielbadisy/misscforest
 	shallow = true
 	registered = true
