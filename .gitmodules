@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "mcstatsim"]
+	path = mcstatsim
+	url = https://github.com/ielbadisy/mcstatsim
 [submodule "missCforest"]
 	path = missCforest
 	url = https://github.com/ielbadisy/misscforest
