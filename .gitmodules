@@ -14,3 +14,6 @@
 [submodule "survdnn"]
 	path = survdnn
 	url = https://github.com/ielbadisy/survdnn
+[submodule "tvrmst"]
+	path = tvrmst
+	url = https://github.com/ielbadisy/tvrmst
