@@ -17,3 +17,6 @@
 [submodule "tvrmst"]
 	path = tvrmst
 	url = https://github.com/ielbadisy/tvrmst
+[submodule "unsurv"]
+	path = unsurv
+	url = https://github.com/ielbadisy/unsurv
