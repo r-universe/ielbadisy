@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "funcml"]
+	path = funcml
+	url = https://github.com/cran/funcml
 [submodule "functionals"]
 	path = functionals
 	url = https://github.com/ielbadisy/functionals
