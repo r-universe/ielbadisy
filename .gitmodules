@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "funcml"]
 	path = funcml
-	url = https://github.com/cran/funcml
+	url = https://github.com/ielbadisy/funcml
 [submodule "functionals"]
 	path = functionals
 	url = https://github.com/ielbadisy/functionals
