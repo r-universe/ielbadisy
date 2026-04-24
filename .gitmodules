@@ -14,6 +14,9 @@
 [submodule "missCforest"]
 	path = missCforest
 	url = https://github.com/ielbadisy/misscforest
+[submodule "survalis"]
+	path = survalis
+	url = https://github.com/ielbadisy/survalis
 [submodule "survdnn"]
 	path = survdnn
 	url = https://github.com/ielbadisy/survdnn
