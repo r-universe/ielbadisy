@@ -11,6 +11,9 @@
 [submodule "mcstatsim"]
 	path = mcstatsim
 	url = https://github.com/ielbadisy/mcstatsim
+[submodule "mimar"]
+	path = mimar
+	url = https://github.com/ielbadisy/mimar
 [submodule "missCforest"]
 	path = missCforest
 	url = https://github.com/ielbadisy/misscforest
