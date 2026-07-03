@@ -26,6 +26,9 @@
 [submodule "survdnn"]
 	path = survdnn
 	url = https://github.com/ielbadisy/survdnn
+[submodule "testflow"]
+	path = testflow
+	url = https://github.com/ielbadisy/testflow
 [submodule "tvrmst"]
 	path = tvrmst
 	url = https://github.com/ielbadisy/tvrmst
