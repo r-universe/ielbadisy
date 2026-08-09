@@ -5,6 +5,9 @@
 [submodule "CEACT"]
 	path = CEACT
 	url = https://github.com/ielbadisy/ceact
+[submodule "densemlp"]
+	path = densemlp
+	url = https://github.com/ielbadisy/densemlp
 [submodule "funcml"]
 	path = funcml
 	url = https://github.com/ielbadisy/funcml
