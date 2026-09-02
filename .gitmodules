@@ -8,6 +8,9 @@
 [submodule "densemlp"]
 	path = densemlp
 	url = https://github.com/ielbadisy/densemlp
+[submodule "fastgbm"]
+	path = fastgbm
+	url = https://github.com/ielbadisy/fastgbm
 [submodule "funcml"]
 	path = funcml
 	url = https://github.com/ielbadisy/funcml
@@ -26,6 +29,9 @@
 [submodule "missknn"]
 	path = missknn
 	url = https://github.com/ielbadisy/missknn
+[submodule "phynotype"]
+	path = phynotype
+	url = https://github.com/ielbadisy/phynotype
 [submodule "survalis"]
 	path = survalis
 	url = https://github.com/ielbadisy/survalis
