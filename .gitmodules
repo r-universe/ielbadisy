@@ -29,9 +29,15 @@
 [submodule "missknn"]
 	path = missknn
 	url = https://github.com/ielbadisy/missknn
+[submodule "nbsurv"]
+	path = nbsurv
+	url = https://github.com/ielbadisy/nbsurv
 [submodule "phynotype"]
 	path = phynotype
 	url = https://github.com/ielbadisy/phynotype
+[submodule "rpsurv"]
+	path = rpsurv
+	url = https://github.com/ielbadisy/rpsurv
 [submodule "survalis"]
 	path = survalis
 	url = https://github.com/ielbadisy/survalis
