@@ -38,7 +38,6 @@
 [submodule "panglm"]
 	path = panglm
 	url = https://github.com/ielbadisy/panglm
-	registered = false
 [submodule "phynotype"]
 	path = phynotype
 	url = https://github.com/ielbadisy/phynotype
