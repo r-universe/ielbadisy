@@ -4,5 +4,11 @@
     "url": "https://github.com/ielbadisy/nbsurv",
     "via": ["survalis"],
     "from": "survalis"
+  },
+  {
+    "package": "tvrmst",
+    "url": "https://github.com/ielbadisy/tvrmst",
+    "via": ["survalis"],
+    "from": "survalis"
   }
 ]
